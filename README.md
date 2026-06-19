@@ -1,3 +1,3 @@
 # autosuggest
 
-verify my git set-up :)
+verify my git set-up:)
