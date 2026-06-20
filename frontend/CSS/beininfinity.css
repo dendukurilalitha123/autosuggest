@@ -1,14 +1,30 @@
 .gear{
-    position: fixed;
-    top: 10px;
-    left: 10px;
-
+    position:fixed;
+    top:10px;
+    left:10px;
 }
-.pill{
-    position: fixed;
-    top: 10px;
-    right: 10px;
+.pill {
+    position:fixed;
+    top:10px;
+    right:10px;
 }
-.main-content{
+.being{
+    color: rgba(61, 125, 172, 0.603);
+}
+.tagline{
+    color: rgb(226, 223, 223);
+}
+.main-content {
     text-align: center;
+}
+.lens{
+    position: relative;
+    left: 30px;
+}
+.search-box{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
